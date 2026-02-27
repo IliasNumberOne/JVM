@@ -1,0 +1,1 @@
+This research paper provides a comprehensive analysis of the Java Virtual Machine (JVM) architecture, exploring its internal components and their interactions. The paper examines how JVM enables Java's platform independence through the "Write Once, Run Anywhere" (WORA) principle.
