@@ -36,9 +36,3 @@ A comprehensive research paper analyzing the internal architecture and component
 - [Key Findings](#key-findings)
 - [References](#references)
 - [How to Use](#how-to-use)
-
-## 🔍 Abstract
-
-The Java Virtual Machine (JVM) is the cornerstone of the Java platform, enabling the famous "Write Once, Run Anywhere" capability. This research paper provides an in-depth analysis of JVM's architecture, examining how its components work together to execute Java bytecode across different operating systems. The paper explores the evolution from manual to automatic memory management and discusses various JVM implementations including HotSpot, IBM J9, and Excelsior Jet.
-
-## 🏗️ JVM Architecture Diagram
