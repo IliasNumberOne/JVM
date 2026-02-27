@@ -23,15 +23,15 @@ A comprehensive research paper analyzing the internal architecture and component
 
 ## 📋 Table of Contents
 
-- [Abstract]
-- [JVM Architecture Diagram]
-- [Key Components]
-  - [ClassLoader Subsystem]
-  - [Runtime Data Areas]
-  - [Execution Engine]
-  - [Java Native Interface]
-- [The Class Loading Process]
-- [Memory Management]
-- [Performance Optimization]
-- [Key Findings]
-- [References]
+- Abstract
+- JVM Architecture Diagram
+- Key Components
+  - ClassLoader Subsystem
+  - Runtime Data Areas
+  - Execution Engine
+  - Java Native Interface
+- The Class Loading Process
+- Memory Management
+- Performance Optimization
+- Key Findings
+- References
